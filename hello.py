@@ -3,5 +3,8 @@ print("Python עובד בצורה מעולה")
 print("הגרסה שלי עובדת!")
 print("עדכנתי את הקוד!")
 print("it is working")
+print("hi")
+
+
 
 
